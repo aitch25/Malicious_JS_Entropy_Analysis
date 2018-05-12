@@ -3,14 +3,15 @@ import tensorflow as tf
 import pandas as pd
 import csv
 
-num_points = 193
+#num_points = 193
+num_points = 31
 #num_points = 10000
 #dimensions = 2
-dimensions = 5
+dimensions = 101
 #points = np.random.uniform(0, 10000000000, [num_points, dimensions])
 #points = np.random.uniform(0, 1000, [num_points, dimensions])
 
-full_data = pd.read_csv("./Obfuscation.csv")
+full_data = pd.read_csv("./Obfuscation2.csv")
 full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
 #print(points)
 #print("----------------------------------------------------------------------------------")
@@ -28,8 +29,8 @@ def input_csv():
 #print("##############", input_csv())
 
 
-#num_clusters = 5
-num_clusters = 10
+num_clusters = 5
+#num_clusters = 10
 kmeans = tf.contrib.factorization.KMeansClustering(num_clusters=num_clusters, use_mini_batch=False)
 
 # train
@@ -57,7 +58,7 @@ cluster_indices = list(kmeans.predict_cluster_index(input_csv))
 
 FILE_PATH = "../DAT/"
 
-with open('result.csv', 'w') as csvfile:
+with open('result2.csv', 'w') as csvfile:
 	fieldnames = ['file_name', 'cluster']
 	writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 	
