@@ -7,12 +7,14 @@ import csv
 num_points = 31
 #num_points = 10000
 #dimensions = 2
-dimensions = 101
+dimensions = 101-5
 #points = np.random.uniform(0, 10000000000, [num_points, dimensions])
 #points = np.random.uniform(0, 1000, [num_points, dimensions])
 
 full_data = pd.read_csv("./Obfuscation2.csv")
-full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
+#full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
+full_data_x = full_data.drop(["FileName", "CharTotal", " LineTotal", " AvgCharPerLine", " # of Strings", " % of Space"], axis=1).astype(np.float32).values
+
 #print(points)
 #print("----------------------------------------------------------------------------------")
 print(full_data_x)
