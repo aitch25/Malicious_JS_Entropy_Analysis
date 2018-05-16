@@ -7,13 +7,13 @@ import csv
 num_points = 31
 #num_points = 10000
 #dimensions = 2
-dimensions = 101-5
+dimensions = 138
 #points = np.random.uniform(0, 10000000000, [num_points, dimensions])
 #points = np.random.uniform(0, 1000, [num_points, dimensions])
 
 full_data = pd.read_csv("./Obfuscation2.csv")
-#full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
-full_data_x = full_data.drop(["FileName", "CharTotal", " LineTotal", " AvgCharPerLine", " # of Strings", " % of Space"], axis=1).astype(np.float32).values
+full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
+#full_data_x = full_data.drop(["FileName", "CharTotal", " LineTotal", " AvgCharPerLine", " # of Strings", " % of Space", " RationOfNum ", " RatioOfEng", " RatioOfSpcChar", " MaxCharNumPerLine", " DistDegree "], axis=1).astype(np.float32).values
 
 #print(points)
 #print("----------------------------------------------------------------------------------")
@@ -31,12 +31,12 @@ def input_csv():
 #print("##############", input_csv())
 
 
-num_clusters = 5
+num_clusters = 4
 #num_clusters = 10
 kmeans = tf.contrib.factorization.KMeansClustering(num_clusters=num_clusters, use_mini_batch=False)
 
 # train
-num_iterations = 10
+num_iterations = 50
 previous_centers = None
 for _ in xrange(num_iterations):
 	#kmeans.train(input_fn)
