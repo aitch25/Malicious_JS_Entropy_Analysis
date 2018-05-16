@@ -7,7 +7,7 @@ import csv
 num_points = 31
 #num_points = 10000
 #dimensions = 2
-dimensions = 138
+dimensions = 14
 #points = np.random.uniform(0, 10000000000, [num_points, dimensions])
 #points = np.random.uniform(0, 1000, [num_points, dimensions])
 
@@ -31,7 +31,7 @@ def input_csv():
 #print("##############", input_csv())
 
 
-num_clusters = 4
+num_clusters = 6
 #num_clusters = 10
 kmeans = tf.contrib.factorization.KMeansClustering(num_clusters=num_clusters, use_mini_batch=False)
 

