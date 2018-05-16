@@ -34,6 +34,7 @@ for root, directories, files in os.walk(InputDir):
         if FilePath.endswith('.js'):
             with open(FilePath, encoding="utf8", errors='ignore') as f:
 
+                CharTotal = 0
                 RatioOfNum = 0
                 RatioOfEng = 0
                 RatioOfSpcChar = 0 
