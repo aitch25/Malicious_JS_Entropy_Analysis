@@ -11,7 +11,7 @@ dimensions = 14
 #points = np.random.uniform(0, 10000000000, [num_points, dimensions])
 #points = np.random.uniform(0, 1000, [num_points, dimensions])
 
-full_data = pd.read_csv("./Obfuscation2.csv")
+full_data = pd.read_csv("./Obfuscation3.csv")
 full_data_x = full_data.drop(["FileName"], axis=1).astype(np.float32).values
 #full_data_x = full_data.drop(["FileName", "CharTotal", " LineTotal", " AvgCharPerLine", " # of Strings", " % of Space", " RationOfNum ", " RatioOfEng", " RatioOfSpcChar", " MaxCharNumPerLine", " DistDegree "], axis=1).astype(np.float32).values
 
@@ -31,7 +31,7 @@ def input_csv():
 #print("##############", input_csv())
 
 
-num_clusters = 6
+num_clusters = 10
 #num_clusters = 10
 kmeans = tf.contrib.factorization.KMeansClustering(num_clusters=num_clusters, use_mini_batch=False)
 
@@ -60,7 +60,7 @@ cluster_indices = list(kmeans.predict_cluster_index(input_csv))
 
 FILE_PATH = "../DAT/"
 
-with open('result2.csv', 'w') as csvfile:
+with open('result3.csv', 'w') as csvfile:
 	fieldnames = ['file_name', 'cluster']
 	writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 	
